@@ -39,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthxd7&show_icons=true&locale=en" alt="parthxd7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthxd7&" alt="parthxd7" /></p>
+![image](https://github.com/ParthXD7/ParthXD7/assets/67903668/f8ef99f6-9aaa-4a77-802d-68dfbcf65bac)
