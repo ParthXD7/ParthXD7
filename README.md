@@ -1,33 +1,41 @@
-# Hi, I'm ParthXD7 👋
+<h1 align="center">Hi 👋, I'm ParthXD7</h1>
+<h3 align="center">A passionate developer, Gamer, Photographer, Ethical Hacker, Cybersecurity Expert from India</h3>
 
-## About me
-- I'm a **gamer**, a **photograph enthusiast**, and a **tech geek**.
-- I'm also a **spiritual person** who believes in the power of positivity and gratitude.
-- I love to learn new things and explore new possibilities.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthxd7&label=Profile%20views&color=0e75b6&style=flat" alt="parthxd7" /> </p>
 
-## Skills
-- Here are some of the languages that I know and my proficiency level:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthxd7" alt="parthxd7" /></a> </p>
 
-| Language | Progress |
-| :---: | :---: |
-| C | ! [C] (https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github) |
-| C++ | ! [C++] (https://www.digitalocean.com/community/tutorials/markdown-markdown-images) |
-| HTML | ! [HTML] (https://github.com/gepser/markdown-progress) |
-| CSS | ! [CSS] (http://url/to/img.png%29) |
-| JS basic | ! [JS basic] (https://github.com/) |
-| Java | ! [Java] (https://assets.digitalocean.com/articles/alligator/boo.svg) |
+- 🔭 I’m currently working on **A New Game In Java**
 
-- I'm always eager to learn new languages and frameworks.
+- 🌱 I’m currently learning **Python, Java**
 
-## Projects
-- Here are some of the projects that I have worked on or contributed to:
-    - [Tic-Tac-Toe](https://assets.digitalocean.com/articles/alligator/boo.svg%29): A simple and fun game of Tic-Tac-Toe made with C++.
-    - [Portfolio](https://bing.com/search?q=): A personal portfolio website made with HTML, CSS, and JS.
-    - [Photo Gallery](https://geps.dev/progress/10%29): A photo gallery app made with Java and Android Studio.
+- 👨‍💻 All of my projects are available at [Soon!](Soon!)
 
-## Contact
-- You can reach me at:
-    - Email: parthxd7@gmail.com
-    - Twitter: @ParthXD7
-    - Instagram: @parthxd7
-- I'm always open to feedback, collaboration, and new opportunities.
+- 📝 I regularly write articles on [https://parthxd7.blogspot.com/](https://parthxd7.blogspot.com/)
+
+- 💬 Ask me about **Ethical Hacker, Cybersecurity, C, C++, Tech**
+
+- 📫 How to reach me **parthxd007@gmail.com**
+
+- 📄 Know about my experiences [Soon!](Soon!)
+
+- ⚡ Fun fact **i am very sarcastic**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/parthxd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthxd7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/develop with xd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="develop with xd7" height="30" width="40" /></a>
+<a href="https://discord.gg/h62dsrd8SN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h62dsrd8SN" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/parthxd7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/parthxd7" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthxd7&show_icons=true&locale=en&layout=compact" alt="parthxd7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthxd7&show_icons=true&locale=en" alt="parthxd7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthxd7&" alt="parthxd7" /></p>
