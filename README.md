@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ParthXD7</h1>
 <h3 align="center">A passionate developer, Gamer, Photographer, Ethical Hacker, Cybersecurity Expert from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1135640677686968321/1206138939526746142/codeloop.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1135640677686968321/1206138939526746142/codeloop.gif?ex=65daeb6c&is=65c8766c&hm=ac7a2e11daeebc108eceffe5eb0a3289bbb4fcdd18bb7c355d5b962c56371935&">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthxd7&label=Profile%20views&color=0e75b6&style=flat" alt="parthxd7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthxd7" alt="parthxd7" /></a> </p>
