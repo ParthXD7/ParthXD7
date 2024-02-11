@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1135640677686968321/1206141246981275679/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif?ex=65daed92&is=65c87892&hm=bf1a7a20ba0a7467e170e231ae6e64b4bb050575a9e18510112dee213b015bec&)](https://parthxd7.io)
+[![MasterHead](https://cdn.discordapp.com/attachments/1135640677686968321/1206141868937842738/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?ex=65daee26&is=65c87926&hm=0356bb213adaac088d231f0cb2691206c28f690789a3d68f5feae04717888a0d&)](https://parthxd7.io)
 <h1 align="center">Hi 👋, I'm ParthXD7</h1>
 <h3 align="center">A passionate developer, Gamer, Photographer, Ethical Hacker, Cybersecurity Expert from India</h3>
 
