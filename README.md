@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthxd7" alt="parthxd7" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1135640677686968321/1206138939526746142/codeloop.gif?ex=65daeb6c&is=65c8766c&hm=ac7a2e11daeebc108eceffe5eb0a3289bbb4fcdd18bb7c355d5b962c56371935&">
-- 💰💵 **Support Me!(UPI)** - **parthxd07@aubank**
+
+- 💰💵 Support Me!(UPI) - **parthxd07@aubank**
 
 - 🔭 I’m currently working on **A New Game In Java**
 
