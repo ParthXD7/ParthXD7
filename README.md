@@ -1,5 +1,6 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1135640677686968321/1206141868937842738/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?ex=65daee26&is=65c87926&hm=0356bb213adaac088d231f0cb2691206c28f690789a3d68f5feae04717888a0d&)](https://parthxd7.io)
 <head><meta name="google-site-verification" content="EMrHTWC0UbG_53T6z9tbCnIJfAZToHK99L_XumFU-uk" /></head>
+[![MasterHead](https://cdn.discordapp.com/attachments/1135640677686968321/1206141868937842738/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?ex=65daee26&is=65c87926&hm=0356bb213adaac088d231f0cb2691206c28f690789a3d68f5feae04717888a0d&)](https://parthxd7.io)
+
 <meta name="google-site-verification" content="EMrHTWC0UbG_53T6z9tbCnIJfAZToHK99L_XumFU-uk" />
 <h1 align="center">Hi 👋, I'm ParthXD7</h1>
 <h3 align="center">A passionate developer, Gamer, Photographer, Ethical Hacker, Cybersecurity Expert from India</h3>
