@@ -45,4 +45,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthxd7&" alt="parthxd7" /></p>
 <img align="bottom-center" alt="Coding" width="600" src="https://cdn.discordapp.com/attachments/1207276880995291177/1207276922447462420/ParthCV.jpg?ex=65df0f40&is=65cc9a40&hm=3bb99b79043757f4df8bf00a66f5eade054b534f10ef23cf57b53201234dc3a0&">
 
-
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ParthXD7/)
