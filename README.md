@@ -9,19 +9,17 @@
 
 - 💰💵 Support Me!(UPI) - **parthxd07@aubank**
 
-- 🔭 I’m currently working on **A New Game In Java**
+- 🔭 I’m currently working on **Cybersecurity and Java**
 
 - 🌱 I’m currently learning **Python, Java**
 
-- 👨‍💻 All of my projects are available at [Soon!](Soon!)
+- 👨‍💻 All of my projects are available here at Github!
 
 - 📝 I regularly write articles on [https://parthxd7.blogspot.com/](https://parthxd7.blogspot.com/)
 
-- 💬 Ask me about **Ethical Hacker, Cybersecurity, C, C++, Tech**
+- 💬 Ask me about **Ethical Hacker, Cybersecurity, C, C++, Tech, Java, Python**
 
 - 📫 How to reach me **parthxd007@gmail.com**
-
-- 📄 Know about my experiences [Soon!](Soon!)
 
 - ⚡ Fun fact **i am very sarcastic**
 
