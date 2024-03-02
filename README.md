@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthxd7&label=Profile%20views&color=0e75b6&style=flat" alt="parthxd7" /> </p>
 <h6>01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001 And 01101101 01111001 00100000 01101110 01100001 01101101 01100101 00100000 01101001 01110011 00100000 01010000 01100001 01110010 01110100 01101000 01011000 01000100 00110111</h6>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthxd7" alt="parthxd7" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1135640677686968321/1207259535409156137/Designer_7.png?ex=65deff0f&is=65cc8a0f&hm=63a7fdc1edf3c62568cb4599c6fff9cb65808897acbb2e8cca52fd1493ea0c25&">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1135640677686968321/1207260726641823816/8faa87e0-df8b-4b0f-822f-b06d6e7beeeb.jpg?ex=65f1752b&is=65df002b&hm=36011e0a5b81f68b405cf1059fc20cb22f007cec30e04332eafecbef4e1b0d54&">
 
 - 💰💵 Support Me!(UPI) - **parthxd07@aubank**
 
