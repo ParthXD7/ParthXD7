@@ -41,6 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthxd7&show_icons=true&locale=en" alt="parthxd7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthxd7&" alt="parthxd7" /></p>
-<img align="bottom-center" alt="Coding" width="600" src="https://cdn.discordapp.com/attachments/1207276880995291177/1207276922447462420/ParthCV.jpg">
+<img align="bottom-center" alt="Coding" width="600" src="https://cdn.discordapp.com/attachments/1207276880995291177/1207276922447462420/ParthCV.jpg?ex=65fabec0&is=65e849c0&hm=1ce423452e3d2dc598ba4389959bb78c06c2a871af378e4ac487cc99cd2e7bb0&">
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ParthXD7/)
