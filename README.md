@@ -9,15 +9,15 @@
 
 - 💰💵 Support Me!(UPI) - **parthxd07@aubank**
 
-- 🔭 I’m currently working on **Cybersecurity and Java**
+- 🔭 I’m currently working on **AI , CyberSec and Java**
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python, Java, AI **
 
 - 👨‍💻 All of my projects are available here at Github!
 
 - 📝 I regularly write articles on [https://parthxd7.blogspot.com/](https://parthxd7.blogspot.com/)
 
-- 💬 Ask me about **Ethical Hacker, Cybersecurity, C, C++, Tech, Java, Python**
+- 💬 Ask me about **Ethical Hacking , CyberSecurity, C, C++, Technology, Pc Components, Latest Gadgets/Tech,Startup Idea, Investing in my Business/Startup/Idea, Business, Java, Python, Ai , etc..**
 
 - 📫 How to reach me **parthxd007@gmail.com**
 
