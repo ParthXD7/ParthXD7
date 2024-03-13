@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available here at Github!
 
-- 📝 I regularly write articles on [https://parthxd7.blogspot.com/](https://parthxd7.blogspot.com/)
+- 📝 I regularly write articles on [https://blog.parthxd7.in/](https://blog.parthxd7.in/)
 
 - 💬 Ask me about **Ethical Hacking , CyberSecurity, C, C++, Technology, Pc Components, Latest Gadgets/Tech,Startup Idea, Investing in my Business/Startup/Idea, Business, Java, Python, Ai , etc..**
 
-- 📫 How to reach me **parthxd007@gmail.com**
+- 📫 How to reach me **contact@parthxd7.in**
 
 - ⚡ Fun fact **i am very sarcastic**
 
