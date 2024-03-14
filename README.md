@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available here at Github!
 
-- 📝 I regularly write articles on [https://blog.parthxd7.in/](https://blog.parthxd7.in/)
+- 📝 Join my Community/Forum on [https://parthxd7.in/](https://parthxd7.in/)
 
 - 💬 Ask me about **Ethical Hacking , CyberSecurity, C, C++, Technology, Pc Components, Latest Gadgets/Tech,Startup Idea, Investing in my Business/Startup/Idea, Business, Java, Python, Ai , etc..**
 
