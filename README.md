@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthxd7&label=Profile%20views&color=0e75b6&style=flat" alt="parthxd7" /> </p>
 <h6>01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001 And 01101101 01111001 00100000 01101110 01100001 01101101 01100101 00100000 01101001 01110011 00100000 01010000 01100001 01110010 01110100 01101000 01011000 01000100 00110111</h6>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthxd7" alt="parthxd7" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1135640677686968321/1207260726641823816/8faa87e0-df8b-4b0f-822f-b06d6e7beeeb.jpg?ex=65f1752b&is=65df002b&hm=36011e0a5b81f68b405cf1059fc20cb22f007cec30e04332eafecbef4e1b0d54&">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1135640677686968321/1207260726641823816/8faa87e0-df8b-4b0f-822f-b06d6e7beeeb.jpg">
 
 - 💰💵 Support Me!(UPI) - **parthxd07@aubank**
 
@@ -29,7 +29,7 @@
 <a href="https://www.youtube.com/@parthxd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="develop with xd7" height="30" width="40" /></a>
 <a href="https://discord.gg/h62dsrd8SN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h62dsrd8SN" height="30" width="40" /></a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1207276880995291177/1216467061279031336/XD7HIGHTREESUntitled-1.jpg?ex=66007e3c&is=65ee093c&hm=efcb2d48b42bda7bf3f10dbaa70ff03392d731b281f7c33d2e8391f960617909&">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1207276880995291177/1216467061279031336/XD7HIGHTREESUntitled-1.jpg">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -41,6 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthxd7&show_icons=true&theme=tokyonight&locale=en" alt="parthxd7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthxd7&theme=tokyonight" alt="parthxd7" /></p>
-<img align="bottom-center" alt="Coding" width="600" src="https://cdn.discordapp.com/attachments/1207276880995291177/1207276922447462420/ParthCV.jpg?ex=65fabec0&is=65e849c0&hm=1ce423452e3d2dc598ba4389959bb78c06c2a871af378e4ac487cc99cd2e7bb0&">
+<img align="bottom-center" alt="Coding" width="600" src="https://cdn.discordapp.com/attachments/1207276880995291177/1207276922447462420/ParthCV.jpg">
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ParthXD7/)
