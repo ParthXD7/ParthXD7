@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **i am very sarcastic**
 
-- 🧾 About Me -<p align="center">  Hello there, I'm Parth, a 20-year-old student currently studying at Chitkara University in Punjab. Let me share a bit about myself without sounding too full of myself.
+- 🧾 About Me - <h5 align="center"> Hello there, I'm Parth, a 20-year-old student currently studying at Chitkara University in Punjab. Let me share a bit about myself without sounding too full of myself.
 
 I've always had a fascination with technology, particularly areas like IoT, cybersecurity, ethical hacking, and gaming. It's been quite a journey exploring these interests, and along the way, I've managed to pick up a few certifications in cybersecurity and ethical hacking. My knowledge extends to networking, computers, cyber defense, and ethical hacking, which I find incredibly intriguing.
 
@@ -33,7 +33,7 @@ Communication is something I've been working on, trying to express myself clearl
 
 I'm far from perfect, and I know there's always more to learn. But I do try to approach problems with a sense of calmness and determination, no matter how challenging they may be.
 
-So yeah, that's me – just a regular guy with a passion for technology, trying to stay grounded and keep learning along the way.
+So yeah, that's me – just a regular guy with a passion for technology, trying to stay grounded and keep learning along the way.</h5> 
 
 
 <h3 align="left">Connect with me:</h3>
