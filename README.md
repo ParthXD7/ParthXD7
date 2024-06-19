@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthxd7" alt="parthxd7" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1207276880995291177/1216467062088536104/8faa87e0-df8b-4b0f-822f-b06d6e7beeeb.jpg?ex=6661647c&is=666012fc&hm=9d403283141dc2851a6a614b4b04c4fa98f01a92ea99a924a430c8be9c195314&">
 
-- 💰💵 Support Me!(UPI) - **parthxd07@aubank**
+- 💰💵 Support Me!(UPI) - **parthxd7@aubank**
 
 - 🔭 I’m currently working on **AI , CyberSecurity, Linux**
 
