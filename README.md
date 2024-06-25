@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1135640677686968321/1206141868937842738/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?ex=65ed6326&is=65daee26&hm=04ad5efa3211d8964490dded98bfa6f0e19737b20e0947446a3b531e496781d8&)](https://parthxd7.io)
+[![MasterHead](https://github.com/ParthXD7/ParthXD7/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://parthxd7.io)
 
 <h1 align="center">Hi 👋, I'm ParthXD7</h1>
 <h3 align="center">A passionate developer, Gamer, Photographer, Ethical Hacker, Cybersecurity Expert, AI Expert from India</h3>
@@ -54,6 +54,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthxd7&show_icons=true&theme=tokyonight&locale=en" alt="parthxd7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthxd7&theme=tokyonight" alt="parthxd7" /></p>
-<img align="bottom-center" alt="Coding" width="600" src="https://cdn.discordapp.com/attachments/1207276880995291177/1207276922447462420/ParthCV.jpg">
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ParthXD7/)
