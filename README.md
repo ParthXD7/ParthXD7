@@ -48,7 +48,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/parthxd7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="parthxd7" /></a></p><br><br>
-
+<script src="https://tryhackme.com/badge/3144290"></script
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthxd7&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="parthxd7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthxd7&show_icons=true&theme=tokyonight&locale=en" alt="parthxd7" /></p>
