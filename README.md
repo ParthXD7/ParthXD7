@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm ParthXD7</h1>
 
-<h3 align="center">A passionate developer, Gamer, Photographer, Ethical Hacker, Cybersecurity Expert, AI Expert from India</h3>
+<h3 align="center">A passionate developer, Gamer, Photographer, Ethical Hacker, Cybersecurity Expert from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthxd7&label=Profile%20views&color=0e75b6&style=flat" alt="parthxd7" /> </p>
 <h6>01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001 And 01101101 01111001 00100000 01101110 01100001 01101101 01100101 00100000 01101001 01110011 00100000 01010000 01100001 01110010 01110100 01101000 01011000 01000100 00110111</h6>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthxd7" alt="parthxd7" /></a> </p>
