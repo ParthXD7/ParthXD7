@@ -36,7 +36,7 @@
 
 <h5 align="center">So yeah, that's me – just a regular guy with a passion for technology, trying to stay grounded and keep learning along the way.</h5>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/parthxd7.png)](https://tryhackme.com/p/parthxd7)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
