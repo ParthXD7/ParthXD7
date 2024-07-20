@@ -36,7 +36,8 @@
 
 <h5 align="center">So yeah, that's me – just a regular guy with a passion for technology, trying to stay grounded and keep learning along the way.</h5>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/parthxd7.png" alt="TryHackMe">
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/parthxd7.png)](https://tryhackme.com/p/parthxd7)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/parthxd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthxd7" height="30" width="40" /></a>
