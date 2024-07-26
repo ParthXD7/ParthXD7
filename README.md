@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Ethical Hacking , CyberSecurity, C, C++, Technology, Pc Components, Latest Gadgets/Tech,Startup Idea, Investing in my Business/Startup/Idea, Business, Java, Python, Ai , etc..**
 
-- 📫 How to reach me **contact@parthxd7.in**
+- 📫 How to reach me **parthxd7@parthxd7.in**
 
 - ⚡ Fun fact **i am very sarcastic**
 
