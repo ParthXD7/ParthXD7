@@ -58,5 +58,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthxd7&show_icons=true&theme=tokyonight&locale=en" alt="parthxd7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthxd7&theme=tokyonight" alt="parthxd7" /></p>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/parthxd7.png" alt="TryHackMe">
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ParthXD7/)
