@@ -61,3 +61,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/parthxd7.png" alt="TryHackMe">
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ParthXD7/)
+- Website: [WEbsite](https://www.parthxd7.in)
+- Website: [WEbsite](https://www.xd7.in)
+
