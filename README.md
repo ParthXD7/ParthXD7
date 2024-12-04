@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/ParthXD7/ParthXD7/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://parthxd7.io)
 
-<h1 align="center">Hi 👋, I'm ParthXD7</h1>
+<h1 align="center">Hi 👋, I'm ParthXD7 | CompTIA Security+ Certified</h1>
 
 <h3 align="center">A passionate developer, Gamer, Photographer, Ethical Hacker, Cybersecurity Expert from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthxd7&label=Profile%20views&color=0e75b6&style=flat" alt="parthxd7" /> </p>
@@ -10,7 +10,7 @@
 
 - 💰💵 Support Me!(UPI) - **parthxd7@aubank**
 
-- 🔭 I’m currently working on **AI , CyberSecurity, Linux**
+- 🔭 I’m currently working on **CyberSecurity, Linux**
 
 - 🌱 I’m currently mastering on **CyberSecurity, Linux, Python**
 
@@ -18,7 +18,7 @@
 
 - 📝 Join my Community/Forum on [https://parthxd7.in/](https://parthxd7.in/)
 
-- 💬 Ask me about **Ethical Hacking , CyberSecurity, C, C++, Technology, Pc Components, Latest Gadgets/Tech,Startup Idea, Investing in my Business/Startup/Idea, Business, Java, Python, Ai , etc..**
+- 💬 Ask me about **Ethical Hacking , CyberSecurity, C, C++, Technology, Pc Components, Latest Gadgets/Tech,Java, Python, etc..**
 
 - 📫 How to reach me **parthxd7@parthxd7.in**
 
