@@ -101,35 +101,30 @@ Welcome to my GitHub profile! I'm **Parth Sukhija**, a passionate cybersecurity 
 
 Here are some of the projects I've worked on. These include some hands-on work with ethical hacking, web security, and more.
 
-### 1. **[Web Crawler for Security Testing](https://github.com/ParthXD7/Web-Security-Crawler)**
-   - A multi-threaded web crawler that discovers hidden paths on websites, checks for common vulnerabilities, and identifies files.
-   - Implements Python with libraries like `aiohttp` and `BeautifulSoup`.
-   - Designed for discovering sensitive areas like `/admin`, `/login`, and `/config`, enhancing web security audits.
+### 1. **[Advanced Web Crawler for Security Testing](https://github.com/ParthXD7/Web-Security-Crawler)**
+   - A web crawler designed to search and find all possible links (like `robots.txt`, `admin.php`, etc.) from a given website. It includes advanced features like searching common paths, multi-threading, and saving results in a CSV file.
 
-### 2. **[Penetration Testing Scripts](https://github.com/ParthXD7/PenTest-Scripts)**
-   - A collection of tools for penetration testing, vulnerability scanning, and security assessments.
-   - Includes custom scripts for discovering vulnerabilities like SQL Injection, XSS, and SSRF.
+### 2. **[Simple Encryption and Decryption Tool using Caesar Cipher](https://github.com/ParthXD7/Simple-Encrypt-Decrypt)**
+   - A simple Python tool implementing the Caesar Cipher encryption and decryption algorithm. It allows users to encrypt or decrypt text using a shift value and supports both uppercase and lowercase letters.
 
-### 3. **[Capture the Flag (CTF) Challenges](https://github.com/ParthXD7/CTF-Solutions)**
-   - Solutions to CTF challenges related to web security, cryptography, binary exploitation, and network security.
-   - Includes explanations and walkthroughs for common CTF challenges.
+### 3. **[Advanced Encryption and Decryption Tool (AES)](https://github.com/ParthXD7/Advanced-Encrypt-Decrypt)**
+   - A Python-based encryption and decryption tool that uses AES-256 encryption. It supports encrypting and decrypting text and files, allows for custom or auto-generated keys, and includes features like base64 encoding, IV handling, and file encryption.
 
-### 4. **[Cybersecurity Blog](https://parthxd7.medium.com/)**
-   - Regular posts on cybersecurity topics, ethical hacking techniques, and tips to improve security skills.
-   - Offers tutorials, best practices, and security news updates.
+### 4. **[Simple Port Scanner](https://github.com/ParthXD7/port-scanner)**
+   - A simple Python-based port scanner that scans a range of ports on a specified host. It uses multithreading to speed up the process and reports open ports. The script can be customized to scan different port ranges on any target host. 
 
 ## 📝 Certifications
 
-- **Certified Ethical Hacker (CEH)** - EC-Council
+- **Certified Ethical Hacker (CEH)** - EC-Council - in process
 - **CompTIA Security+**
-- **Cisco Certified Network Associate (CCNA)**
-- **Certified Information Systems Security Professional (CISSP)** (In progress)
+- **Google Introduction to Cyber Security**
+- **StationX 5 Certificates (4 Cybersec + 1 Ethical Hacking)**
 
 ## 📚 Education
 
 - **Bachelor of Computer Applications (BCA)** - Final Year Student
   - Specialization in Cybersecurity and Ethical Hacking
-  - Currently learning about **Data Warehousing**, **ETL Technologies**, and **Cloud Security**.
+  - Currently learning about **Python**, **CyberSecurity + Networking**, and **Cloud Security**.
 
 ## 💼 Career Goals
 
@@ -142,10 +137,10 @@ Here are some of the projects I've worked on. These include some hands-on work w
 Feel free to reach out to me for collaboration, questions, or just to talk about cybersecurity!
 
 - **Email**: parthxd7@parthxd7.in
-- **LinkedIn**: [Parth Sukhija](https://www.linkedin.com/in/parth-sukhija/)
+- **LinkedIn**: [Parth Sukhija](https://www.linkedin.com/in/parthxd7/)
 - **Twitter**: [@ParthXD7](https://twitter.com/ParthXD7)
 - **Instagram**: [@ParthXD7](https://www.instagram.com/parthxd7/)
-
+- **Website**: [@ParthXD7](https://www.parthxd7.in/)
 ## 📂 Projects in the Pipeline
 
 - Building a **custom vulnerability scanner** to check for known CVEs in web applications.
