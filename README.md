@@ -141,7 +141,7 @@ Here are some of the projects I've worked on. These include some hands-on work w
 
 Feel free to reach out to me for collaboration, questions, or just to talk about cybersecurity!
 
-- **Email**: parth.sukhija@domain.com
+- **Email**: parthxd7@parthxd7.in
 - **LinkedIn**: [Parth Sukhija](https://www.linkedin.com/in/parth-sukhija/)
 - **Twitter**: [@ParthXD7](https://twitter.com/ParthXD7)
 - **Instagram**: [@ParthXD7](https://www.instagram.com/parthxd7/)
