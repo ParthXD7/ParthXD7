@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ParthXD7/ParthXD7/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://parthxd7.io)
+[![MasterHead](https://github.com/ParthXD7/ParthXD7/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://parthxd7.in)
 
 <h1 align="center">Hi 👋, I'm ParthXD7 | CompTIA Security+ Certified</h1>
 
